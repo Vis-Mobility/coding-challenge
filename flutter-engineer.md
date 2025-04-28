@@ -41,7 +41,7 @@ You will be given a **Swagger/OpenAPI** specification and server for easier API 
    - Display a **QR code** or **barcode** encoding redemption information.
 
 ### Sample Screen Design:
-![Sample Screen Design](./sample-screen.png)
+![Sample Screen Design](./screenshot.png)
 
 ---
 
