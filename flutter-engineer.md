@@ -79,13 +79,7 @@ Swagger/OpenAPI: https://{url}/#api
 ## Other Requirements
 
 - Code must be **clean, organized, and modular**.
-- Suggested folder structure:
-  - `/models`
-  - `/services` (for API calls)
-  - `/screens`
-  - `/widgets`
 - Use **Dart best practices**.
-- Proper separation of concerns between UI, logic, and network layers.
 - Include a simple **README** with brief instructions on how to run the project.
 
 ---
