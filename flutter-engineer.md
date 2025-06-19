@@ -40,6 +40,12 @@ You will be given a **Swagger/OpenAPI** specification and server for easier API 
      - Validity period
    - Display a **QR code** or **barcode** encoding redemption information.
 
+3. **Map view**:
+   The use case is to show where the coupon is eligible to use
+   - Connect to socket to get location real time
+   - show coupons when it is near the location
+   - You are free to design the UIUX whatever you think it make sense
+
 ### Sample Screen Design:
 ![Sample Screen Design](./screenshot.png)
 
